@@ -1,14 +1,22 @@
 {
-    "description": "DESCRIPTION_GOES_HERE.", 
-    "title": "Robert's Farm of Ideas: RUNNING_NUMBER_OF_IDEA -- RUNNING_TITLE_OF_IDEA", 
+    "description": "compare two-point UV/Vis spectroscopy read-out with spectral unmixing; there is a lot material in the last papers by Felix Kaspar et al. (https://orcid.org/0000-0001-6391-043X).", 
+    "title": "Robert's Farm of Ideas: 10 -- compare traditional spectroscopy vs spectral unmixing", 
     "license": {
         "id": "CC-BY-4.0"
     }, 
-    "notes": "Development is happening here: <a href='https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA'>https://github.com/roberts-farm-of-ideas/RUNNING_NUMBER_OF_IDEA</a>", 
+    "notes": "Development is happening here: <a href='https://github.com/roberts-farm-of-ideas/10'>https://github.com/roberts-farm-of-ideas/10</a>", 
     "keywords": [
-        "KEYWORD1",
-        "",
-        "KEYWORDLAST"
+        "uv/vis spectroscopy",
+        "spectral deconvolution",
+        "spectral unmixing",
+        "matrix factorization",
+        "isosbestic point",
+        "normalization",
+        "nucleosides",
+        "nucleobase",
+        "nucleoside phosphorylase",
+        "comparison",
+        "benchmark"
     ],
     "creators": [
     {
