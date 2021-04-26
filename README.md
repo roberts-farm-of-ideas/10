@@ -1,10 +1,10 @@
-# Robert's Farm of Ideas: RUNNING_IDEA_NUMBER
+# Robert's Farm of Ideas: 10
 
 [![DOI of this idea](https://zenodo.org/badge/doi/CONCEPT_DOI_FROM_ZENODO.svg)](https://doi.org/CONCEPT_DOI_FROM_ZENODO)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## This idea in short
-It's good to have a template for multiple related things.
+compare two-point UV/Vis spectroscopy read-out with spectral unmixing; there is a lot material in the last papers by Felix Kaspar et al. (https://orcid.org/0000-0001-6391-043X)
 
 ## Sounds great, but...
 You are interested in this topic? But the idea is gibberish and incomplete, or non-sense? Well, you're probably right! 
